@@ -1,0 +1,6 @@
+{
+  "name": "InstaVibe - Social Feed & Stories",
+  "description": "A feature-complete Instagram experience with stories, reels, photo filters, interactive feeds, direct messaging, and profile customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
